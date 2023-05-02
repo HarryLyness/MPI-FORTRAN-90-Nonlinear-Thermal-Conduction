@@ -7,7 +7,9 @@ For more information, see
 
 [1] Adler J., Thermal–explosion theory for a slab with partial insulation, Combustion and
 Flame 50, 1983, pp. 1–7.
+
 [2] Greenway P. and Spence A., Numerical calculation of critical points for a slab with
 partial insulation, Combustion and Flame 62, 1985, pp. 141–156. 
+
 [3] Kelley CT., Iterative Methods for Linear and Nonlinear Equations, SIAM, Philadelphia,
 1995. 
